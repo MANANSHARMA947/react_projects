@@ -8,4 +8,5 @@
 
 # Interview functionality 
 - iterating over every accodian by map function and showing every items question 
-
+- onclick handle 
+- state management after clicking the btn the state should automatically change and the accordian should behave like that only
